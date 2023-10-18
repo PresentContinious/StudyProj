@@ -1,0 +1,150 @@
+.frame4 {
+    border-radius: 30px;
+    min-height: 685px;
+    overflow: hidden;
+}
+
+.wrap {
+    position: absolute;
+    right: 0;
+}
+
+.inactive {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.button {
+
+    border-radius: 30px;
+    border: 2px solid #fcaf3b;
+    padding: 15px 30px;
+    transition: all .4s ease-in-out;
+    cursor: pointer;
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.button:hover {
+    background-color: #fcaf3b;
+    color: #ffffff;
+}
+
+.overlap3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 685px;
+    position: relative;
+}
+
+.iframe {
+    outline: none;
+    border: none;
+}
+
+.overlap5 {
+    backdrop-filter: blur(40px) brightness(100%);
+    background-color: rgba(190, 190, 190, 0.6);
+    border-radius: 30px 30px 0 0;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 96px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    position: absolute;
+    width: 100%;
+    transition: all .4s ease-in-out;
+    pointer-events: none;
+}
+
+.overlap5.hide {
+    opacity: 0;
+}
+
+.textWrapper37 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-shadow: 0 0 20px #36312f4c;
+    white-space: nowrap;
+}
+
+.overlapGroup5 {
+    padding: 0 45px 10px;
+}
+
+.rectangle4 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 10px;
+}
+
+.rectangle5 {
+    background-color: #fcaf3b;
+    border-radius: 30px;
+    position: relative;
+    height: 10px;
+}
+
+.ellipse4 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    right: 0;
+    top: -5px;
+}
+
+.group57 {
+    display: flex;
+    align-items: center;
+}
+
+.fluentSpeaker {
+    height: 72px;
+    width: 77px;
+}
+
+.textWrapper36 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    height: 24px;
+    left: 247px;
+    letter-spacing: 0;
+    line-height: normal;
+
+    text-shadow: 0 0 20px #36312f1a;
+    top: 9px;
+    white-space: nowrap;
+}
+
+.overlapGroup4 {
+    display: flex;
+    align-items: center;
+}
+
+.solarSettingsBold {
+    height: 73px;
+    width: 73px;
+}
+
+.iconAmonScreen {
+    height: 71px;
+    width: 71px;
+}
+
+.iconAmonScreen2 {
+    height: 56px;
+    width: 79px;
+}

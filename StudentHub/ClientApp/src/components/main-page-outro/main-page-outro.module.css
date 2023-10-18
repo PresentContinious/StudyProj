@@ -1,0 +1,1903 @@
+.overlap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0 100px;
+}
+
+.textWrapper14 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    background-color: #363636;
+    border-radius: 60px;
+    box-shadow: 0 0 20px 2px #36312f4c;
+    width: 1660px;
+    height: 139px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlapGroup {
+    padding: 2% 0;
+}
+
+.rectangle {
+    background-color: #363636;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 339px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 350px;
+    margin-bottom: 30px;
+}
+
+.group7 {
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
+
+.group8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.textWrapper15 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 450px;
+}
+
+.ellipse {
+    height: 250px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.textWrapper16 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.textWrapper17 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.line {
+    height: 5px;
+    width: 150px;
+    background: #363636;
+    border-radius: 20px;
+}
+
+.textWrapper19 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 500px;
+}
+
+.textWrapper20 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.textWrapper21 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.textWrapper22 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.ellipse2 {
+    height: 250px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.line2 {
+    height: 1px;
+    width: 150px;
+}
+
+.group10 {
+    height: 802px;
+    width: 458px;
+}
+
+.textWrapper23 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.textWrapper24 {
+    color: #eaeaea;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+    margin-top: 5px;
+}
+
+.textWrapper25 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.ellipse3 {
+    height: 250px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.line3 {
+    height: 1px;
+    width: 150px;
+}
+
+.overlap2 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 70%, rgb(252, 175, 59) 100%),
+    no-repeat 100% 100% url(https://c.animaapp.com/BU0gcmOz/img/close-up-hand-writing-notebook-top-view-1.png);
+}
+
+.anotherBack {
+    background: no-repeat left/82% 125% url(https://c.animaapp.com/BU0gcmOz/img/vector-18.svg);
+    padding: 1% 4% 100px;
+}
+
+.close-up-hand {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%);
+    height: 100px;
+}
+
+.vector-2 {
+    background-image: url(https://c.animaapp.com/BU0gcmOz/img/vector-18.svg);
+    background-size: 100% 100%;
+    background-position-y: 0;
+    background-repeat: no-repeat;
+    width: 1170px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    top: -200px;
+    z-index: 0;
+}
+
+.textWrapper26 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper27 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-bottom: 40px;
+}
+
+.element {
+    color: #cecece;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 717px;
+    margin-bottom: 200px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.overlapGroupWrapper {
+}
+
+.overlapGroup2 {
+    height: 150px;
+    width: 100%;
+    position: relative;
+    top: 20px;
+    left: 600px;
+}
+
+.polygon {
+    height: 119px;
+    width: 119px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.polygon-2 {
+    height: 92px;
+    width: 92px;
+    position: absolute;
+    top: -10px;
+    left: 60px;
+}
+
+.polygon-3 {
+    height: 68px;
+    width: 68px;
+    position: absolute;
+    top: -20px;
+    left: 110px;
+}
+
+.overlap3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+
+.group11 {
+    max-width: 40%;
+}
+
+.close-up-hand-2 {
+    background-color: #fcae3b;
+    border-radius: 50px 0 0 50px;
+    height: 779px;
+    width: 950px;
+}
+
+.close-up-hand-3 {
+    height: 915px;
+    object-fit: cover;
+    width: 915px;
+}
+
+.group12 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.textWrapper28 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 765px;
+}
+
+.gap {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-right: 50px;
+}
+
+.textWrapper29 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 728px;
+}
+
+.group13 {
+    height: 84px;
+    width: 84px;
+}
+
+.group14 {
+    height: 167px;
+    width: 903px;
+}
+
+.group15 {
+    height: 167px;
+    width: 903px;
+}
+
+.right-about {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 40px;
+}
+
+.overlapWrapper {
+    height: 175px;
+}
+
+.overlap4 {
+    border-radius: 80px 0 0 80px;
+    height: 175px;
+}
+
+.close-up-hand-4 {
+    background-color: #363636;
+    border-radius: 80px 0 0 80px;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 175px;
+    width: 697px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.textWrapper30 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    padding-left: 50px;
+}
+
+.line4 {
+    height: 8px;
+    width: 100%;
+    background: #fcae3b;
+    border-radius: 80px 0 0 80px;
+}
+
+.overlap5 {
+    height: 1080px;
+    width: 2676px;
+}
+
+.background-main {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%),
+    no-repeat -100% url(https://c.animaapp.com/BU0gcmOz/img/close-up-hand-writing-notebook-top-view-5.png);
+    height: 1080px;
+}
+
+.background-second {
+    background: no-repeat url(https://c.animaapp.com/BU0gcmOz/img/vector-41.svg);
+    height: 1080px;
+    padding: 7% 0 10% 42%;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.title {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.close-up-hand-5 {
+    height: 1080px;
+    object-fit: cover;
+    width: 2062px;
+}
+
+.close-up-hand-6 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%);
+    height: 1080px;
+    transform: rotate(-180deg);
+    width: 1920px;
+}
+
+.vector-3 {
+    height: 1080px;
+    width: 1920px;
+}
+
+.textWrapper31 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 610px;
+}
+
+.textWrapper32 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.line5 {
+    height: 10px;
+    width: 100%;
+    background: #fcae3b;
+    border-radius: 20px 0 0 20px;
+}
+
+.frame-4 {
+    align-items: center;
+    display: inline-flex;
+    gap: 80px;
+}
+
+.group16 {
+    height: 156px;
+    width: 176px;
+}
+
+.textWrapper33 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 174px;
+}
+
+.icon-oir-verified {
+    height: 80px;
+    width: 80px;
+}
+
+.group17 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.textWrapper34 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 138px;
+}
+
+.solar-diploma {
+    height: 80px;
+    width: 80px;
+}
+
+.group18 {
+    height: 156px;
+    margin-right: -2px;
+    width: 166px;
+}
+
+.textWrapper35 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 164px;
+}
+
+.solar-verified-check {
+    height: 80px;
+    width: 80px;
+}
+
+.overlap6 {
+    height: 1080px;
+}
+
+.overlapMainBack {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%),
+    no-repeat 100% 0 url(https://c.animaapp.com/BU0gcmOz/img/close-up-hand-writing-notebook-top-view-8.png);
+    height: 1080px;
+}
+
+.overlapSecondBack {
+    background: no-repeat 100% url(https://c.animaapp.com/BU0gcmOz/img/vector-40.svg);
+    height: 1080px;
+    padding-left: 100px;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.close-up-hand-7 {
+    height: 1080px;
+    object-fit: cover;
+    width: 1634px;
+}
+
+.close-up-hand-8 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%);
+    height: 1080px;
+    width: 1920px;
+}
+
+.vector-4 {
+    height: 1080px;
+    width: 1920px;
+}
+
+.textWrapper36 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-top: 70px;
+}
+
+.textWrapper37 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper38 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper39 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.static-wrap {
+    display: flex;
+    gap: 50px;
+    margin-top: 70px;
+}
+
+.textWrapper40 {
+    color: #c7c6c6;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 263px;
+}
+
+.textWrapper41 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 263px;
+}
+
+.group19 {
+    height: 305px;
+    width: 685px;
+    display: flex;
+    justify-content: space-between;
+    transform: rotateX(180deg);
+    margin-top: 40px;
+}
+
+.group20 {
+    height: 305px;
+    width: 87px;
+}
+
+.textWrapper42 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group21 {
+    height: 260px;
+    width: 85px;
+}
+
+.rectangle2 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 174px;
+    width: 40px;
+}
+
+.rectangle3 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 260px;
+    width: 40px;
+}
+
+.group22 {
+    height: 271px;
+    width: 87px;
+}
+
+.textWrapper43 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group23 {
+    height: 226px;
+    width: 85px;
+}
+
+.rectangle4 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 226px;
+    width: 40px;
+}
+
+.rectangle5 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 226px;
+    width: 40px;
+}
+
+.group24 {
+    height: 193px;
+    width: 87px;
+}
+
+.textWrapper44 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+    transform: rotateX(180deg);
+}
+
+.group25 {
+    height: 148px;
+    width: 85px;
+}
+
+.rectangle6 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 107px;
+    width: 40px;
+}
+
+.rectangle7 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 148px;
+    width: 40px;
+}
+
+.group26 {
+    height: 244px;
+    width: 87px;
+}
+
+.textWrapper45 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group27 {
+    height: 199px;
+    width: 85px;
+}
+
+.rectangle8 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 199px;
+    width: 40px;
+}
+
+.rectangle9 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 199px;
+    width: 40px;
+}
+
+.group28 {
+    height: 305px;
+    width: 87px;
+}
+
+.textWrapper46 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group29 {
+    height: 271px;
+    width: 87px;
+}
+
+.textWrapper47 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.rectangle10 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 199px;
+    width: 40px;
+}
+
+.group30 {
+    display: flex;
+    flex-direction: column;
+}
+
+.textWrapper48 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group31 {
+    display: flex;
+    gap: 5px;
+}
+
+.rectangle11 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 133px;
+    width: 40px;
+}
+
+.rectangle12 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 193px;
+    width: 40px;
+}
+
+.ellipse4-1,
+.ellipse4 {
+    background-color: #363636;
+    border-radius: 50%;
+    height: 106px;
+    width: 106px;
+    position: absolute;
+    top: 12.5%;
+    left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ellipse4-1 {
+    top: 12.5%;
+    left: 12.5%;
+}
+
+.group32,
+.ellipseWrapper {
+    background-image: url(https://c.animaapp.com/BU0gcmOz/img/ellipse-22-1.svg);
+    background-size: 100% 100%;
+    height: 142px;
+    width: 142px;
+    position: relative;
+}
+
+.group32 {
+    background-image: url(https://c.animaapp.com/BU0gcmOz/img/ellipse-22.svg);
+}
+
+.wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.ellipse5 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.ellipse6 {
+    background-color: #fcaf3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.textWrapper49 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper50 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.overlap7 {
+    background-color: #363636;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textWrapper51 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.group33 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: center;
+    margin: 4% 0;
+}
+
+.frame-5 {
+    margin-bottom: 50px;
+}
+
+.overlapGroup3 {
+    position: relative;
+}
+
+.rectangle13 {
+    height: 300px;
+    object-fit: cover;
+    border-radius: 30px;
+    width: 450px;
+}
+
+.rectangle14 {
+    background-color: #363636;
+    border: 1px solid #fcae3b;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 10px #36312f4c;
+    height: 100px;
+    width: 450px;
+    position: absolute;
+    bottom: -50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textWrapper52 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.frame-6 {
+    align-items: center;
+    background-color: #fcae3b;
+    border-radius: 20px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 15px 25px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+
+.textWrapper53 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.frame-7 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.textWrapper54 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 354px;
+}
+
+.frame-8 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.frame-9 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.textWrapper55 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 388px;
+}
+
+.frame-12 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.textWrapper56 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 403px;
+}
+
+.frame-13 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.textWrapper57 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 386px;
+}
+
+.ic-round-navigate {
+    height: 85px;
+    width: 85px;
+}
+
+.overlap8 {
+    background-color: #363636;
+    border-radius: 0 80px 80px 0;
+    box-shadow: 0 0 20px #36312f4c;
+    padding: 2% 0;
+    width: 942px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    flex-direction: column;
+}
+
+.split {
+    display: flex;
+    justify-content: space-between;
+}
+
+.textWrapper58 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.group34 {
+    height: 70px;
+    width: 647px;
+}
+
+.ellipse7 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.textWrapper59 {
+    color: #cbcbcb;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 583px;
+}
+
+.group35 {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding-left: 10%;
+}
+
+.lineSplit {
+    display: flex;
+    width: 100%;
+    gap: 50px;
+    align-items: center;
+}
+
+.line6 {
+    height: 5px;
+    border-radius: 0 50px 50px 0;
+    width: 30%;
+    background: #fcae3b;
+}
+
+.centerCourses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.textWrapper60 {
+    color: #ffdea0;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper61 {
+    color: #ffdea0;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper62 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 200px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.groupWrapper {
+    width: 900px;
+    background-color: #363636;
+    border-radius: 80px 0 0 80px;
+    box-shadow: 0 0 20px #36312f4c;
+    padding: 3% 0;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    flex-direction: column;
+}
+
+.ellipse8 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.group38 {
+    height: 70px;
+    width: 645px;
+}
+
+.group39 {
+    height: 70px;
+    width: 645px;
+}
+
+.last {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 4%;
+    margin-bottom: 100px;
+}
+
+.last-left {
+}
+
+.last-right {
+}
+
+.textWrapper64 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-bottom: 60px;
+}
+
+.textWrapper65 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.community {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.textWrapper66 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper67 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper68 {
+    color: #e8e8e8;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-top: 20px;
+}
+
+.textWrapper69 {
+    color: #e7e6e6;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.group40 {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.textWrapper70 {
+    color: #eeeeee;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper71 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper72 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.textWrapper73 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.group41 {
+    height: 40px;
+    width: 40px;
+}
+
+.group42 {
+    height: 40px;
+    width: 40px;
+}
+
+.group43 {
+    height: 40px;
+    width: 40px;
+}
+
+.groupWrap {
+    display: flex;
+    gap: 30px;
+}
+
+.group44 {
+    height: 40px;
+    width: 40px;
+}
+
+.group45 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.textWrapper74 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-bottom: 30px;
+}
+
+.textWrapper75 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.overlap9 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 80px;
+    width: 702px;
+}
+
+.textWrapper76 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: none;
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    outline: none;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.overlap10 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 80px;
+    width: 702px;
+    display: flex;
+    align-items: center;
+}
+
+.group46 {
+    width: 100%;
+    padding: 2% 6%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.courseWrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.group47 {
+    height: 767px;
+    width: 452px;
+}
+
+.overlap12,
+.overlap11 {
+    height: 767px;
+    width: 450px;
+    background-color: #363636;
+    border-radius: 30px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+
+.rectangle15 {
+    box-shadow: 0 0 20px #36312f4c;
+    height: 767px;
+    width: 450px;
+}
+
+.group48 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.textWrapper77 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.ic-round-navigate-2 {
+    height: 24px;
+    width: 24px;
+}
+
+.group49 {
+    height: 100px;
+    width: 452px;
+}
+
+.overlapGroup4 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 100px;
+    width: 102%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px 3px #36312f4c;
+}
+
+.textWrapper78 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 306px;
+}
+
+.group50 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-direction: column;
+    width: 100%;
+}
+
+.textWrapper79 {
+    color: #d7d5d5;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 270px;
+}
+
+.ellipse9 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.group52 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.group53 {
+    height: 30px;
+    width: 313px;
+}
+
+.group54 {
+    height: 30px;
+    width: 313px;
+}
+
+.textWrapper80 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 410px;
+}
+
+.line7 {
+    height: 5px;
+    width: 266px;
+    background: #fcae3b;
+    border-radius: 10px;
+}
+
+.group55 {
+    height: 80px;
+    width: 126px;
+}
+
+.textWrapper81 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.textWrapper82 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group56 {
+    height: 839px;
+    width: 504px;
+}
+
+.overlap12 {
+    height: 839px;
+    width: 500px;
+}
+
+.group57 {
+    height: 290px;
+    width: 420px;
+}
+
+.textWrapper83 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 365px;
+}
+
+.ellipse10 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.textWrapper84 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.ellipse11 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.textWrapper85 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.textWrapper86 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.ellipse12 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.textWrapper87 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.ellipse13 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.textWrapper88 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 460px;
+}
+
+.line8 {
+    height: 1px;
+    width: 300px;
+}
+
+.overlapGroup5 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 100px;
+    width: 500px;
+}
+
+.textWrapper89 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group58 {
+    height: 80px;
+    width: 126px;
+}
+
+.textWrapper90 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group59 {
+    height: 30px;
+    width: 124px;
+}
+
+.group60 {
+}
+
+.component {
+    align-items: center;
+    background-color: #fcaf3b;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 25px 60px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.component .textWrapper {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.component:hover {
+    box-shadow: 0 0 20px #fcaf3b;
+}
+
+.frame {
+    align-items: center;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 18px 30px;
+}
+
+.frame .textWrapper2 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.frame:hover .textWrapper2 {
+    text-shadow: 0 0 20px #fcaf3b;
+}
+
+.property-default {
+    align-items: center;
+    border: 1px solid #fcae3b;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 25px 40px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.property-default .div {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    white-space: nowrap;
+    width: fit-content;
+    transition: all .3s ease-in-out;
+}
+
+.property-default:hover {
+    box-shadow: 0 0 20px #fcaf3b;
+}
+
+.property-default:hover .div {
+    text-shadow: 0 0 20px #fcaf3b;
+}

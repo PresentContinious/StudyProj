@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHub", "StudentHub\StudentHub.csproj", "{A67CB3D7-B49C-4E89-8A1F-05190D51669C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C4C2883A-84F2-4202-A74B-D1F2959D282C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHub.Core", "StudentHub.Core\StudentHub.Core.csproj", "{C93BC2CB-FC0B-48A7-8157-883AAB88F20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67CB3D7-B49C-4E89-8A1F-05190D51669C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67CB3D7-B49C-4E89-8A1F-05190D51669C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67CB3D7-B49C-4E89-8A1F-05190D51669C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67CB3D7-B49C-4E89-8A1F-05190D51669C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C2883A-84F2-4202-A74B-D1F2959D282C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C2883A-84F2-4202-A74B-D1F2959D282C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C2883A-84F2-4202-A74B-D1F2959D282C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C2883A-84F2-4202-A74B-D1F2959D282C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93BC2CB-FC0B-48A7-8157-883AAB88F20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93BC2CB-FC0B-48A7-8157-883AAB88F20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93BC2CB-FC0B-48A7-8157-883AAB88F20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93BC2CB-FC0B-48A7-8157-883AAB88F20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

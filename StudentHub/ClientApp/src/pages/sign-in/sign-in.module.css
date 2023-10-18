@@ -1,0 +1,479 @@
+.mainPage {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.mainPage .mainPageV {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+}
+
+.mainPage .overlap {
+    background-image: url(https://c.animaapp.com/5ThCsLyF/img/close-up-hand-writing-notebook-top-view-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    position: relative;
+    height: 100%;
+}
+
+.blur {
+    backdrop-filter: blur(20px);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainPage .right {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100%;
+    min-height: 100vh;
+    width: 50%;
+}
+
+.mainPage .left {
+    height: 100%;
+    width: 50%;
+}
+
+.mainPage .rectangle2 {
+    background-color: #363636;
+    border-radius: 200px 0 0 200px;
+    box-shadow: 0 0 50px #36312f59;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    padding: 30px 80px;
+    height: 100%;
+}
+
+.mainPage .group2 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.mainPage .p {
+    color: #e1e1e1;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    margin: 5px 0 25px;
+}
+
+.mainPage .frame {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    gap: 10px;
+    padding: 3% 3%;
+}
+
+.input {
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: none;
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    outline: none;
+    width: 100%;
+    padding: 0 3px;
+}
+
+.mainPage .img2 {
+    height: 30px;
+    width: 30px;
+}
+
+.mainPage .textWrapper4 {
+    color: #36363659;
+    font-family: "Jura", Helvetica, serif;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.mainPage .textWrapper5 {
+    color: #36363659;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: -29px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.mainPage .textWrapper6 {
+    color: #36363659;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: -46px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.mainPage .frame5 {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 30px;
+    display: flex;
+    gap: 20px;
+    padding: 20px 300px 20px 40px;
+}
+
+.mainPage .div2 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.mainPage .span {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.mainPage .textWrapper7 {
+    font-weight: 700;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.mainPage .group3 {
+    display: flex;
+    padding: 0 10%;
+}
+
+.vector {
+    height: 12px;
+    width: 12px;
+}
+
+.mainPage .div3 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.mainPage .group4 {
+    padding: 0 10%;
+}
+
+.mainPage .textWrapper9 {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.mainPage .overlapGroupWrapper {
+}
+
+.mainPage .overlapGroup2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainPage .rectangle3 {
+    background-color: #363636;
+    border-radius: 60px 60px 0 0;
+    box-shadow: 0 0 50px #36312f59;
+    padding: 40px 50px 30px;
+}
+
+.mainPage .div4 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.mainPage .textWrapper10 {
+    font-weight: 300;
+}
+
+.mainPage .group5 {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 0 10%;
+}
+
+.mainPage .divWrapper {
+}
+
+.mainPage .textWrapper11 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.mainPage .image {
+}
+
+.mainPage .pajamasGoBack {
+    height: 50px;
+    width: 50px;
+    margin: 10px 0 0 15px;
+
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.mainPage .pajamasGoBack:hover {
+    transform: scale(1.05);
+}
+
+.component {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.component .overlapGroup {
+    background-color: #fcae3b;
+    border-radius: 8px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.component .img {
+    height: 30px;
+    width: 30px;
+}
+
+.component .div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.component .textWrapper {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.group {
+    background-color: #ffffff;
+    border-radius: 6px;
+    width: 30px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.group .uilCheck {
+}
+
+.propertyFrameWrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.disable {
+    opacity: .5;
+    pointer-events: none;
+}
+
+.propertyFrameWrapper .textWrapper3 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    background-color: #fcaf3b;
+    border-radius: 50px;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 25px 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    width: fit-content;
+    cursor: pointer;
+    transition: all .4s ease-in-out;
+    margin-top: 30px;
+}
+
+.textWrapper3:hover {
+    box-shadow: 0 0 10px #fcaf3b;
+}
+
+.firstOverlapGroup {
+    background-color: #363636;
+    border-radius: 200px 0 0 200px;
+    box-shadow: 0 0 50px #36312f59;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    padding: 20% 80px 12%;
+}
+
+.firstTextWrapper2,
+.firstDiv {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.firstTextWrapper3,
+.firstP {
+    color: #d0cece;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    margin: 20px 0 50px;
+}
+
+.google {
+    display: flex;
+    gap: 30px;
+    border: 1px solid #fcae3b;
+    border-radius: 50px;
+    padding: 25px 40px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.firstGroup2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.or {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.firstLine {
+    width: 40%;
+}
+
+.firstComponent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.firstComponent .firstFlatColorIcons {
+}
+
+.firstTextWrapper {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #fcae3b;
+    background: #fcae3b;
+    border-radius: 50px;
+    padding: 25px 40px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.login:hover,
+.google:hover {
+    box-shadow: 0 0 10px #fcaf3b;
+}
+
+.firstOverlapGroup.hidden,
+.rectangle2.hidden {
+    display: none;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    transform: translate(0, 40%);
+}

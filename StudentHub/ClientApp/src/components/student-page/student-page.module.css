@@ -1,0 +1,1338 @@
+.studentMainPage {
+    background-color: #fcae3b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.studentMainPage .studentMainPageV {
+    background-color: #fcae3b;
+    overflow: hidden;
+}
+
+.studentMainPage .overlap2 {
+    background: linear-gradient(180deg, rgb(252.01, 174.9, 59.22) 0%, rgba(54, 54, 54, 0) 51.04%, rgb(54, 54, 54) 100%),
+    url(https://c.animaapp.com/YTRvJR1K/img/rectangle-95.png);
+    background-size: cover;
+    height: 1080px;
+    width: 1920px;
+}
+
+.studentMainPage .textWrapper14 {
+    color: #e8e8e8;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-shadow: 0 0 20px #3636364c;
+    width: 610px;
+}
+
+.studentMainPage .textWrapper15 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    left: 251px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-shadow: 0 0 20px #3636364c;
+    top: 203px;
+    white-space: nowrap;
+}
+
+.studentMainPage .frame5 {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    padding: 200px 250px 120px;
+}
+
+.icons {
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    padding-bottom: 90px;
+}
+
+.studentMainPage .group23 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.studentMainPage .textWrapper16 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 100px;
+    width: 174px;
+}
+
+.studentMainPage .iconOirVerified {
+    height: 80px;
+    left: 47px;
+    width: 80px;
+}
+
+.studentMainPage .group24 {
+    height: 156px;
+    width: 140px;
+}
+
+.studentMainPage .textWrapper17 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 100px;
+    width: 138px;
+}
+
+.studentMainPage .solar-diploma {
+    height: 80px;
+    left: 29px;
+    width: 80px;
+}
+
+.studentMainPage .group25 {
+    height: 156px;
+    margin-right: -2px;
+    width: 166px;
+}
+
+.studentMainPage .textWrapper18 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 100px;
+    width: 164px;
+}
+
+.studentMainPage .solar-verified-check {
+    height: 80px;
+    left: 42px;
+    width: 80px;
+}
+
+.studentMainPage .overlap3 {
+    background: 100% url(https://c.animaapp.com/YTRvJR1K/img/rectangle-90.svg) no-repeat;
+    height: 1080px;
+    width: 1920px;
+    padding: 100px 130px 70px;
+}
+
+.studentMainPage .textWrapper19 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 130px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 99px;
+    white-space: nowrap;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 60px 0;
+    gap: 40px;
+}
+
+.group42 {
+    width: 380px;
+    height: 290px;
+    display: flex;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.blur {
+    backdrop-filter: blur(15px) brightness(100%);
+    background-color: #36363680;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.studentMainPage .overlap4 {
+    height: 1080px;
+    width: 1920px;
+    background: linear-gradient(180deg, rgb(54, 54, 54) 0%, rgba(54, 54, 54, 0) 51.04%, rgb(252.01, 174.9, 59.22) 100%),
+    url("https://c.animaapp.com/YTRvJR1K/img/close-up-hand-writing-notebook-top-view-3.png"),
+    url("https://c.animaapp.com/YTRvJR1K/img/close-up-hand-writing-notebook-top-view-4.png");
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.studentMainPage .close-up-hand {
+    height: 1079px;
+    object-fit: cover;
+    top: 1px;
+    width: 1920px;
+}
+
+.studentMainPage .close-up-hand-2 {
+    height: 1079px;
+    top: 1px;
+    width: 1920px;
+}
+
+.studentMainPage .rectangle2 {
+    background-color: #363636;
+    border-radius: 80px;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 250px;
+    width: 1660px;
+    padding: 0 105px;
+}
+
+
+.studentMainPage .group26 {
+    width: 1450px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.studentMainPage .vector-3 {
+    height: 150px;
+    left: 345px;
+    width: 1px;
+}
+
+.studentMainPage .vector-4 {
+    height: 150px;
+    left: 725px;
+    width: 1px;
+}
+
+.studentMainPage .vector-5 {
+    height: 150px;
+    left: 1105px;
+    width: 1px;
+}
+
+.studentMainPage .group27 {
+    height: 110px;
+    width: 314px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.studentMainPage .textWrapper20 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 268px;
+}
+
+.studentMainPage .textWrapper21 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 75px;
+    width: 310px;
+}
+
+.studentMainPage .group28 {
+    height: 110px;
+    left: 380px;
+    top: 14px;
+    width: 314px;
+}
+
+.studentMainPage .textWrapper22 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 274px;
+}
+
+.studentMainPage .group29 {
+    height: 110px;
+    left: 760px;
+    top: 14px;
+    width: 314px;
+}
+
+.studentMainPage .textWrapper23 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.studentMainPage .group30 {
+    height: 110px;
+    left: 1140px;
+    top: 14px;
+    width: 314px;
+}
+
+.studentMainPage .textWrapper24 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 135px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 40px;
+}
+
+.studentMainPage .image {
+    height: 237px;
+    left: 694px;
+    top: 377px;
+    width: 533px;
+}
+
+.studentMainPage .overlap5 {
+    background-color: #363636;
+    border-radius: 60px;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 139px;
+    left: 130px;
+    top: 7560px;
+    width: 1660px;
+}
+
+.studentMainPage .textWrapper25 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 118px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 31px;
+    white-space: nowrap;
+}
+
+.studentMainPage .overlap6 {
+    height: 812px;
+    top: 6658px;
+    width: 1920px;
+}
+
+.studentMainPage .rectangle3 {
+    background-color: #363636;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 339px;
+    width: 1920px;
+}
+
+.studentMainPage .group31 {
+    height: 767px;
+    left: 229px;
+    top: 45px;
+    width: 1461px;
+}
+
+.studentMainPage .group32 {
+    height: 767px;
+    width: 415px;
+}
+
+.studentMainPage .textWrapper26 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 522px;
+    width: 407px;
+}
+
+.studentMainPage .ellipse21 {
+    height: 250px;
+    left: 78px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.studentMainPage .textWrapper27 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 325px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper28 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper1 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper29 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    left: 158px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 426px;
+    white-space: nowrap;
+}
+
+.studentMainPage .line {
+    height: 1px;
+    left: 128px;
+    top: 492px;
+    width: 150px;
+}
+
+.studentMainPage .group33 {
+    height: 767px;
+    left: 527px;
+    width: 415px;
+}
+
+.studentMainPage .textWrapper30 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 390px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper31 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 426px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper32 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    left: 103px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 325px;
+    white-space: nowrap;
+}
+
+.studentMainPage .group34 {
+    height: 767px;
+    left: 1054px;
+    width: 415px;
+}
+
+.studentMainPage .textWrapper33 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    left: 105px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 390px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper34 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    left: 149px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 426px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper35 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    left: 115px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 325px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper36 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 45px;
+    font-weight: 700;
+    left: 130px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 7797px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper37 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 45px;
+    font-weight: 700;
+    left: 1088px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 7797px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper38 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 807px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 6504px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper39 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 475px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 5424px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper40 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    left: 628px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 5505px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper41 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    left: 599px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 6584px;
+    white-space: nowrap;
+}
+
+.studentMainPage .group35 {
+    height: 314px;
+    left: 130px;
+    top: 7921px;
+    width: 773px;
+}
+
+.studentMainPage .textWrapper42 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper43 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 93px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper44 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 186px;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper45 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 279px;
+    white-space: nowrap;
+}
+
+.studentMainPage .group36 {
+    height: 40px;
+    width: 40px;
+}
+
+.studentMainPage .group37 {
+    height: 40px;
+    top: 91px;
+    width: 40px;
+}
+
+.studentMainPage .group38 {
+    height: 40px;
+    top: 182px;
+    width: 40px;
+}
+
+.studentMainPage .group39 {
+    height: 40px;
+    top: 273px;
+    width: 40px;
+}
+
+.studentMainPage .group40 {
+    height: 313px;
+    left: 1088px;
+    top: 7921px;
+    width: 710px;
+}
+
+.studentMainPage .textWrapper46 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper47 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 178px;
+    white-space: nowrap;
+}
+
+.studentMainPage .overlap7 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 80px;
+    top: 55px;
+    width: 702px;
+}
+
+.studentMainPage .textWrapper48 {
+    color: #3636364c;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 25px;
+    white-space: nowrap;
+}
+
+.studentMainPage .overlapGroup4 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 80px;
+    top: 233px;
+    width: 702px;
+}
+
+.partners {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.studentMainPage .textWrapper49 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    left: 567px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 2954px;
+    white-space: nowrap;
+}
+
+.studentMainPage .overlap8 {
+    background: linear-gradient(
+            180deg,
+            rgb(252.01, 174.9, 59.22) 0%,
+            rgba(252.01, 174.9, 59.22, 0) 25.52%,
+            rgba(255, 255, 255, 0) 49.48%,
+            rgba(252.01, 174.9, 59.22, 0) 76.56%,
+            rgb(252.01, 174.9, 59.22) 100%
+    );
+
+    height: 150px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.studentMainPage .group41 {
+    height: 120px;
+    width: 2224px;
+    display: flex;
+}
+
+.studentMainPage .rectangle4 {
+    background-color: #ffdea0;
+    border-radius: 30px;
+    height: 120px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.studentMainPage .ItStepSchool {
+    height: 95px;
+    object-fit: cover;
+    width: 145px;
+}
+
+.studentMainPage .overlap9 {
+    background-color: #363636;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 250px;
+    padding: 0 130px;
+}
+
+.studentMainPage .group43 {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.studentMainPage .group44 {
+    width: 460px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.studentMainPage .img3 {
+    height: 80px;
+    top: 2px;
+    width: 80px;
+}
+
+.studentMainPage .textWrapper50 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    left: 110px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 348px;
+}
+
+.studentMainPage .group45 {
+    height: 84px;
+    left: 1171px;
+    width: 491px;
+}
+
+.studentMainPage .textWrapper51 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    left: 110px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 379px;
+}
+
+.studentMainPage .group46 {
+    height: 80px;
+    left: 570px;
+    top: 2px;
+    width: 491px;
+}
+
+.studentMainPage .textWrapper52 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    left: 110px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 12px;
+    width: 379px;
+}
+
+.studentMainPage .antDesignStar {
+    height: 80px;
+    width: 80px;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 70px 130px;
+}
+
+.courses {
+    display: flex;
+    gap: 50px;
+}
+
+.studentMainPage .group47 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.studentMainPage .textWrapper53 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 2px;
+    white-space: nowrap;
+}
+
+.studentMainPage .group48 {
+    height: 75px;
+    left: 130px;
+    top: 2224px;
+    width: 1662px;
+}
+
+.studentMainPage .group49 {
+    height: 860px;
+    width: 1660px;
+}
+
+.studentMainPage .overlapGroupWrapper {
+    height: 767px;
+    width: 452px;
+}
+
+.studentMainPage .overlap10 {
+    height: 767px;
+}
+
+.studentMainPage .rectangle13 {
+    background-color: #363636;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 767px;
+    width: 450px;
+}
+
+.studentMainPage .group50 {
+    height: 30px;
+    left: 164px;
+    top: 595px;
+    width: 124px;
+}
+
+.studentMainPage .textWrapper54 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.studentMainPage .icRoundNavigate3 {
+    height: 24px;
+    left: 98px;
+    top: 3px;
+    width: 24px;
+}
+
+.studentMainPage .group51 {
+    height: 100px;
+    width: 452px;
+}
+
+.studentMainPage .overlapGroup5 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 100px;
+    width: 450px;
+}
+
+.studentMainPage .textWrapper55 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    left: 73px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 30px;
+    width: 306px;
+}
+
+.studentMainPage .group52 {
+    height: 225px;
+    left: 69px;
+    top: 245px;
+    width: 311px;
+}
+
+.studentMainPage .group53 {
+    height: 30px;
+    top: 130px;
+    width: 313px;
+}
+
+.studentMainPage .textWrapper56 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 264px;
+}
+
+.studentMainPage .ellipse22 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    top: 5px;
+    width: 20px;
+}
+
+.studentMainPage .group54 {
+    height: 30px;
+    width: 313px;
+}
+
+.studentMainPage .group55 {
+    height: 30px;
+    top: 195px;
+    width: 313px;
+}
+
+.studentMainPage .group56 {
+    height: 30px;
+    top: 65px;
+    width: 313px;
+}
+
+.studentMainPage .textWrapper57 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 125px;
+    width: 410px;
+}
+
+.studentMainPage .line2 {
+    height: 1px;
+    width: 266px;
+}
+
+.studentMainPage .group57 {
+    height: 80px;
+    left: 164px;
+    top: 495px;
+    width: 126px;
+}
+
+.studentMainPage .textWrapper58 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.studentMainPage .textWrapper59 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 39px;
+    white-space: nowrap;
+}
+
+.studentMainPage .group58 {
+    height: 839px;
+    left: 580px;
+    width: 504px;
+}
+
+.studentMainPage .overlap11 {
+    background-color: #363636;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 839px;
+    width: 500px;
+}
+
+.studentMainPage .group59 {
+    height: 290px;
+    left: 51px;
+    top: 245px;
+    width: 420px;
+}
+
+.studentMainPage .textWrapper60 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 260px;
+    width: 365px;
+}
+
+.studentMainPage .ellipse23 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    top: 265px;
+    width: 20px;
+}
+
+.studentMainPage .textWrapper61 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 130px;
+    width: 357px;
+}
+
+.studentMainPage .ellipse24 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    top: 135px;
+    width: 20px;
+}
+
+.studentMainPage .textWrapper62 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.studentMainPage .textWrapper63 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 195px;
+    width: 357px;
+}
+
+.studentMainPage .ellipse25 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    top: 200px;
+    width: 20px;
+}
+
+.studentMainPage .textWrapper64 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 65px;
+    width: 357px;
+}
+
+.studentMainPage .ellipse26 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    top: 70px;
+    width: 20px;
+}
+
+.studentMainPage .textWrapper65 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 125px;
+    width: 460px;
+}
+
+.studentMainPage .line3 {
+    height: 1px;
+    width: 300px;
+}
+
+.studentMainPage .overlapGroup6 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 100px;
+    width: 500px;
+}
+
+.studentMainPage .textWrapper66 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    left: 169px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 30px;
+    white-space: nowrap;
+}
+
+.studentMainPage .group60 {
+    height: 80px;
+    left: 189px;
+    top: 560px;
+    width: 126px;
+}
+
+.studentMainPage .textWrapper67 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    top: 39px;
+    white-space: nowrap;
+}
+
+.studentMainPage .group61 {
+    height: 30px;
+    left: 189px;
+    top: 660px;
+    width: 124px;
+}
+
+.studentMainPage .group62 {
+    height: 767px;
+    top: 93px;
+    width: 452px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.studentMainPage .component {
+    align-items: center;
+    background-color: #fcaf3b;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 25px 60px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.studentMainPage .component .textWrapper {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.studentMainPage .component:hover {
+    box-shadow: 0 0 20px #fcaf3b;
+}
+
+.studentMainPage .frame {
+    align-items: center;
+    border: 2px solid #ffffff;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px 40px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.studentMainPage .frame .textWrapper13 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.studentMainPage .frame:hover {
+    box-shadow: 0 0 20px #ffffff;
+}
+

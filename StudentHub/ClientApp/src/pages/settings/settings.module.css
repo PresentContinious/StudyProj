@@ -1,0 +1,354 @@
+.studentPage {
+    background-color: #fcae3b;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    width: 100%;
+    padding: 60px 130px;
+}
+
+.split {
+    height: 2px;
+    width: 100%;
+    background: #FFDFA1;
+}
+
+.studentPage .textWrapper12 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.studentPage .groupWrapper {
+    background-color: #363636;
+    border-radius: 80px;
+    width: 100%;
+    padding: 65px 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 65px;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+}
+
+.spaceCenter,
+.space {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.spaceCenter {
+    align-items: center;
+}
+
+
+.splitRadio {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.inputGroup {
+    display: flex;
+    width: 800px;
+    gap: 20px;
+}
+
+.studentPage .subTitle {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.studentPage .title {
+    color: #ffffffcc;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.image {
+    width: 800px;
+    display: flex;
+    gap: 40px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.imageWrap {
+    width: 240px;
+    height: 240px;
+    border-radius: 30px;
+    background: #FCAF3B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    border-radius: 30px;
+}
+
+.studentPage .goldTitle {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 8px;
+}
+
+.buttonWrapper,
+.inputWrapper {
+    background-color: #ffffff;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 18px 37px;
+    position: relative;
+    transition: all .3s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.loadText {
+    color: #FCAF3B;
+    font-family: 'Jura', Helvetica, serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.loadButton {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    appearance: none;
+}
+
+.buttonWrapper {
+    width: fit-content;
+    cursor: pointer;
+}
+
+.buttonWrapper:hover {
+    box-shadow: 0 0 10px #ffffff;
+}
+
+.icon {
+}
+
+.input {
+    appearance: none;
+}
+
+.input {
+    color: #363636;
+    width: 100%;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.input::placeholder {
+    color: #363636;
+}
+
+.studentPage .littleTitle {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: "Jura", Helvetica, serif;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.studentPage .span {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+.link {
+    color: #FFF;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.studentPage .overlap {
+    background-color: #fcae3b;
+    border-radius: 30px;
+    height: 240px;
+    width: 240px;
+}
+
+.studentPage .textWrapper42 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.studentPage .ellipse3 {
+    border: 2px solid #fcae3b;
+    border-radius: 50%;
+    height: 17px;
+    width: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.group21 {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.radioWrap {
+    display: flex;
+    gap: 70px;
+    min-width: 500px;
+}
+
+.studentPage .ellipse4 {
+    background-color: #fcae3b;
+    border-radius: 50%;
+    height: 9px;
+    width: 9px;
+}
+
+.divider {
+    display: flex;
+    gap: 85px;
+}
+
+.studentPage .frame15 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 15px 43px 15px 0;
+    width: 325px;
+}
+
+.studentPage .textWrapper43 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.studentPage .rectangle {
+    background-color: #363636;
+    height: 34px;
+    width: 27px;
+}
+
+.img3 {
+    width: 45px;
+    height: 45px;
+    color: #363636;
+    visibility: visible;
+}
+
+.studentPage .group30 {
+    height: 45px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.studentPage .group30:hover {
+    text-shadow: 0 0 10px #ffffff;
+}
+
+.studentPage .group30.selected {
+    text-shadow: 0 0 20px #ffffff;
+}
+
+
+.outroWrap {
+    width: 100%;
+    padding-left: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+}
+
+.save {
+    display: inline-flex;
+    background: #fcae3b;
+    padding: 28px 55px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 20px;
+    width: fit-content;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.save:hover {
+    box-shadow: 0 0 20px #fcae3b;
+}
+
+.button {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Jura', serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.saved {
+    color: #FFF;
+    font-family: 'Jura', serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

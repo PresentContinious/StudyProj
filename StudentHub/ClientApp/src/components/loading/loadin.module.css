@@ -1,0 +1,67 @@
+.loadingPage {
+    background-color: #ffffff;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    z-index: 10;
+}
+
+.loadingPage .loadingPageV {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 100%;
+}
+
+.loadingPage .overlap {
+    background-image: url(https://c.animaapp.com/mNPT6aia/img/close-up-hand-writing-notebook-top-view-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.loadingPage .group {
+    backdrop-filter: blur(30px) brightness(100%);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 20%;
+}
+
+.loadingPage .divWrapper {
+    margin-bottom: 50px;
+}
+
+.loadingPage .div {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+}
+
+.loadingPage .rectangle {
+    width: 100%;
+    height: 20px;
+    background: white;
+    border-radius: 50px;
+    position: relative;
+}
+
+.loadingPage .rectangle .rect {
+    height: 20px;
+    background: #fcaf3b;
+    border-radius: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

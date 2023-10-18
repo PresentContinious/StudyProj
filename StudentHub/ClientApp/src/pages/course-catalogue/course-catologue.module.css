@@ -1,0 +1,455 @@
+.coursesCatalogue {
+    background-color: #fcae3b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 200px;
+}
+
+.coursesCatalogue .coursesCatalogueV {
+    background-color: #fcae3b;
+    width: 100%;
+}
+
+.coursesCatalogue .group7 {
+    padding: 60px 130px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.coursesCatalogue .group8 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.coursesCatalogue .textWrapper12 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.sort {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.split {
+    display: flex;
+    gap: 80px;
+}
+
+.coursesCatalogue .textWrapper13 {
+    color: #ffdea0;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.coursesCatalogue .frame4 {
+    background-color: #363636;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #36312f4c;
+    display: flex;
+    align-items: center;
+    padding: 15px 30px;
+    gap: 170px;
+}
+
+.coursesCatalogue .textWrapper14 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .icRoundNavigate {
+    height: 30px;
+    width: 30px;
+}
+
+.coursesCatalogue .frame5 {
+    align-items: center;
+    border: 2px solid #ffdea0;
+    border-radius: 30px;
+    display: flex;
+    gap: 25px;
+    padding: 16px 30px;
+    width: 380px;
+}
+
+.coursesCatalogue .tablerSearch2 {
+    height: 30px;
+    width: 30px;
+}
+
+.coursesCatalogue .textWrapper15 {
+    color: #ffdea0;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.coursesCatalogue .overlapGroupWrapper {
+}
+
+.coursesCatalogue .overlapGroup {
+    background-color: #363636;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #36312f4c;
+    width: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.coursesCatalogue .textWrapper16 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .group9 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.coursesCatalogue .textWrapper17 {
+    color: #ffdea0;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .rectangle {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.uilCheck {
+    height: 20px;
+    width: 20px;
+}
+
+.coursesCatalogue .textWrapper32 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .textWrapper33 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .textWrapper34 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .textWrapper35 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+    text-align: center;
+    margin-top: 60px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.coursesCatalogue .textWrapper35:hover {
+    text-shadow: 0 0 10px #fcae3b;
+}
+
+.coursesCatalogue .group10 {
+    height: 82px;
+    width: 261px;
+}
+
+.coursesCatalogue .group11 {
+    height: 82px;
+    width: 209px;
+}
+
+.coursesCatalogue .group12 {
+    height: 40px;
+    width: 240px;
+    margin-top: 20px;
+}
+
+.coursesCatalogue .overlap {
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    border: 2px solid #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.coursesCatalogue .textWrapper36 {
+    color: #ffdea0;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .rectangle16 {
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
+
+.coursesCatalogue .overlap2 {
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
+
+.coursesCatalogue .textWrapper37 {
+    color: #ffdea0;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .vector2 {
+    height: 2px;
+    width: 22px;
+}
+
+.coursesCatalogue .overlap3 {
+    height: 20px;
+    width: 340px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.coursesCatalogue .vector3 {
+    height: 2px;
+    width: 320px;
+}
+
+.coursesCatalogue .ellipse2,
+.coursesCatalogue .ellipse {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+}
+
+.coursesCatalogue .ellipse2 {
+    right: 0;
+}
+
+.coursesCatalogue .divWrapper {
+    background-color: #fcae3b;
+    border-radius: 30px;
+    height: 50px;
+    width: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.coursesCatalogue .textWrapper38 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .group13 {
+    height: 665px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.coursesCatalogue .group14 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.coursesCatalogue .textWrapper39 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 38px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .textWrapper40 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .textWrapper41 {
+    color: #efefef;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    padding: 20px 30px;
+}
+
+.coursesCatalogue .tdesignSearchError {
+    height: 400px;
+    width: 400px;
+}
+
+.coursesCatalogue .overlap4 {
+    height: 400px;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(255, 197.23, 109.86, 0) 0%, rgb(252.01, 174.9, 59.22) 96.39%),
+    url(https://c.animaapp.com/vAwxSWNV/img/close-up-hand-writing-notebook-top-view-3.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.coursesCatalogue .closeUpHand {
+    height: 399px;
+    object-fit: cover;
+    width: 1920px;
+}
+
+.coursesCatalogue .closeUpHand2 {
+    background-color: #36363680;
+    height: 399px;
+    width: 1920px;
+}
+
+.coursesCatalogue .closeUpHand3 {
+    background: linear-gradient(180deg, rgba(255, 197.23, 109.86, 0) 0%, rgb(252.01, 174.9, 59.22) 96.39%);
+    height: 400px;
+    width: 1920px;
+}
+
+.coursesCatalogue .group15 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.coursesCatalogue .textWrapper42 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    text-shadow: 0 0 20px #00000040;
+    white-space: nowrap;
+}
+
+.coursesCatalogue .textWrapper43 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    text-shadow: 0 0 20px #00000040;
+    white-space: nowrap;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.courses {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    height: fit-content;
+}

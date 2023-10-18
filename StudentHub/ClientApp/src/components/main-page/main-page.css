@@ -1,0 +1,1927 @@
+.main-page {
+    background-color: #fcae3b;
+    width: 100%;
+}
+
+.main-page .main-page-v {
+    overflow: hidden;
+}
+
+.main-page .overlap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0 100px;
+}
+
+.main-page .text-wrapper-14 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    background-color: #363636;
+    border-radius: 60px;
+    box-shadow: 0 0 20px 2px #36312f4c;
+    width: 1660px;
+    height: 139px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-page .overlap-group {
+    padding: 2% 0;
+}
+
+.main-page .rectangle {
+    background-color: #363636;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 339px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 350px;
+}
+
+.main-page .group-7 {
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
+
+.main-page .group-8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.main-page .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 450px;
+}
+
+.main-page .ellipse {
+    height: 250px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.main-page .text-wrapper-16 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-18 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .line {
+    height: 5px;
+    width: 150px;
+    background: #363636;
+    border-radius: 20px;
+}
+
+.main-page .group-9 {
+    height: 767px;
+    width: 508px;
+}
+
+.main-page .text-wrapper-19 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 500px;
+}
+
+.main-page .text-wrapper-20 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-21 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-22 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .ellipse-2 {
+    height: 250px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.main-page .line-2 {
+    height: 1px;
+    width: 150px;
+}
+
+.main-page .group-10 {
+    height: 802px;
+    width: 458px;
+}
+
+.main-page .text-wrapper-23 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-24 {
+    color: #eaeaea;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+    margin-top: 5px;
+}
+
+.main-page .text-wrapper-25 {
+    color: #363636;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .ellipse-3 {
+    height: 250px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.main-page .line-3 {
+    height: 1px;
+    width: 150px;
+}
+
+.main-page .overlap-2 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 70%, rgb(252, 175, 59) 100%),
+    no-repeat 100% 100% url(https://c.animaapp.com/BU0gcmOz/img/close-up-hand-writing-notebook-top-view-1.png);
+}
+
+.main-page .anotherBack {
+    background: no-repeat left/82% 125% url(https://c.animaapp.com/BU0gcmOz/img/vector-18.svg);
+    padding: 1% 4% 100px;
+}
+
+.main-page .close-up-hand {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%);
+    height: 100px;
+}
+
+.main-page .vector-2 {
+    background-image: url(https://c.animaapp.com/BU0gcmOz/img/vector-18.svg);
+    background-size: 100% 100%;
+    background-position-y: 0;
+    background-repeat: no-repeat;
+    width: 1170px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    top: -200px;
+    z-index: 0;
+}
+
+.main-page .text-wrapper-26 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-27 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-bottom: 40px;
+}
+
+.main-page .element {
+    color: #cecece;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 717px;
+    margin-bottom: 200px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.main-page .overlap-group-wrapper {
+}
+
+.main-page .overlap-group-2 {
+    height: 150px;
+    width: 100%;
+    position: relative;
+    top: 20px;
+    left: 600px;
+}
+
+.main-page .polygon {
+    height: 119px;
+    width: 119px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.main-page .polygon-2 {
+    height: 92px;
+    width: 92px;
+    position: absolute;
+    top: -10px;
+    left: 60px;
+}
+
+.main-page .polygon-3 {
+    height: 68px;
+    width: 68px;
+    position: absolute;
+    top: -20px;
+    left: 110px;
+}
+
+.main-page .overlap-3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+
+.main-page .group-11 {
+    max-width: 40%;
+}
+
+.main-page .close-up-hand-2 {
+    background-color: #fcae3b;
+    border-radius: 50px 0 0 50px;
+    height: 779px;
+    width: 950px;
+}
+
+.main-page .close-up-hand-3 {
+    height: 915px;
+    object-fit: cover;
+    width: 915px;
+}
+
+.main-page .group-12 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.main-page .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 765px;
+}
+
+.main-page .gap {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-right: 50px;
+}
+
+.main-page .text-wrapper-29 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 728px;
+}
+
+.main-page .group-13 {
+    height: 84px;
+    width: 84px;
+}
+
+.main-page .group-14 {
+    height: 167px;
+    width: 903px;
+}
+
+.main-page .group-15 {
+    height: 167px;
+    width: 903px;
+}
+
+.main-page .right-about {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 40px;
+}
+
+.main-page .overlap-wrapper {
+    height: 175px;
+}
+
+.main-page .overlap-4 {
+    border-radius: 80px 0 0 80px;
+    height: 175px;
+}
+
+.main-page .close-up-hand-4 {
+    background-color: #363636;
+    border-radius: 80px 0 0 80px;
+    box-shadow: 0 0 20px #36312f4c;
+    height: 175px;
+    width: 697px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.main-page .text-wrapper-30 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    padding-left: 50px;
+}
+
+.main-page .line-4 {
+    height: 8px;
+    width: 100%;
+    background: #fcae3b;
+    border-radius: 80px 0 0 80px;
+}
+
+.main-page .overlap-5 {
+    height: 1080px;
+    width: 2676px;
+}
+
+.main-page .background-main {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%),
+    no-repeat -100% url(https://c.animaapp.com/BU0gcmOz/img/close-up-hand-writing-notebook-top-view-5.png);
+    height: 1080px;
+}
+
+.main-page .background-second {
+    background: no-repeat url(https://c.animaapp.com/BU0gcmOz/img/vector-41.svg);
+    height: 1080px;
+    padding: 7% 0 10% 42%;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.title {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.main-page .close-up-hand-5 {
+    height: 1080px;
+    object-fit: cover;
+    width: 2062px;
+}
+
+.main-page .close-up-hand-6 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%);
+    height: 1080px;
+    transform: rotate(-180deg);
+    width: 1920px;
+}
+
+.main-page .vector-3 {
+    height: 1080px;
+    width: 1920px;
+}
+
+.main-page .text-wrapper-31 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 610px;
+}
+
+.main-page .text-wrapper-32 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .line-5 {
+    height: 10px;
+    width: 100%;
+    background: #fcae3b;
+    border-radius: 20px 0 0 20px;
+}
+
+.main-page .frame-4 {
+    align-items: center;
+    display: inline-flex;
+    gap: 80px;
+}
+
+.main-page .group-16 {
+    height: 156px;
+    width: 176px;
+}
+
+.main-page .text-wrapper-33 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 174px;
+}
+
+.main-page .icon-oir-verified {
+    height: 80px;
+    width: 80px;
+}
+
+.main-page .group-17 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.main-page .text-wrapper-34 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 138px;
+}
+
+.main-page .solar-diploma {
+    height: 80px;
+    width: 80px;
+}
+
+.main-page .group-18 {
+    height: 156px;
+    margin-right: -2px;
+    width: 166px;
+}
+
+.main-page .text-wrapper-35 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 164px;
+}
+
+.main-page .solar-verified-check {
+    height: 80px;
+    width: 80px;
+}
+
+.main-page .overlap-6 {
+    height: 1080px;
+}
+
+.main-page .overlap-main-back {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%),
+    no-repeat 100% 0 url(https://c.animaapp.com/BU0gcmOz/img/close-up-hand-writing-notebook-top-view-8.png);
+    height: 1080px;
+}
+
+.main-page .overlap-second-back {
+    background: no-repeat 100% url(https://c.animaapp.com/BU0gcmOz/img/vector-40.svg);
+    height: 1080px;
+    padding-left: 100px;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.main-page .close-up-hand-7 {
+    height: 1080px;
+    object-fit: cover;
+    width: 1634px;
+}
+
+.main-page .close-up-hand-8 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 56.56%, rgb(252, 175, 59) 100%);
+    height: 1080px;
+    width: 1920px;
+}
+
+.main-page .vector-4 {
+    height: 1080px;
+    width: 1920px;
+}
+
+.main-page .text-wrapper-36 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-top: 70px;
+}
+
+.main-page .text-wrapper-37 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-38 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-39 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .static-wrap {
+    display: flex;
+    gap: 50px;
+    margin-top: 70px;
+}
+
+.main-page .text-wrapper-40 {
+    color: #c7c6c6;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 263px;
+}
+
+.main-page .text-wrapper-41 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 263px;
+}
+
+.main-page .group-19 {
+    height: 305px;
+    width: 685px;
+    display: flex;
+    justify-content: space-between;
+    transform: rotateX(180deg);
+    margin-top: 40px;
+}
+
+.main-page .group-20 {
+    height: 305px;
+    width: 87px;
+}
+
+.main-page .text-wrapper-42 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-21 {
+    height: 260px;
+    width: 85px;
+}
+
+.main-page .rectangle-2 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 174px;
+    width: 40px;
+}
+
+.main-page .rectangle-3 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 260px;
+    width: 40px;
+}
+
+.main-page .group-22 {
+    height: 271px;
+    width: 87px;
+}
+
+.main-page .text-wrapper-43 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-23 {
+    height: 226px;
+    width: 85px;
+}
+
+.main-page .rectangle-4 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 226px;
+    width: 40px;
+}
+
+.main-page .rectangle-5 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 226px;
+    width: 40px;
+}
+
+.main-page .group-24 {
+    height: 193px;
+    width: 87px;
+}
+
+.main-page .text-wrapper-44 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+    transform: rotateX(180deg);
+}
+
+.main-page .group-25 {
+    height: 148px;
+    width: 85px;
+}
+
+.main-page .rectangle-6 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 107px;
+    width: 40px;
+}
+
+.main-page .rectangle-7 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 148px;
+    width: 40px;
+}
+
+.main-page .group-26 {
+    height: 244px;
+    width: 87px;
+}
+
+.main-page .text-wrapper-45 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-27 {
+    height: 199px;
+    width: 85px;
+}
+
+.main-page .rectangle-8 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 199px;
+    width: 40px;
+}
+
+.main-page .rectangle-9 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 199px;
+    width: 40px;
+}
+
+.main-page .group-28 {
+    height: 305px;
+    width: 87px;
+}
+
+.main-page .text-wrapper-46 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-29 {
+    height: 271px;
+    width: 87px;
+}
+
+.main-page .text-wrapper-47 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .rectangle-10 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 199px;
+    width: 40px;
+}
+
+.main-page .group-30 {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-page .text-wrapper-48 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-31 {
+    display: flex;
+    gap: 5px;
+}
+
+.main-page .rectangle-11 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 133px;
+    width: 40px;
+}
+
+.main-page .rectangle-12 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 193px;
+    width: 40px;
+}
+
+.main-page .ellipse-4-1,
+.main-page .ellipse-4 {
+    background-color: #363636;
+    border-radius: 50%;
+    height: 106px;
+    width: 106px;
+    position: absolute;
+    top: 12.5%;
+    left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-page .ellipse-4-1 {
+    top: 12.5%;
+    left: 12.5%;
+}
+
+.main-page .group-32,
+.main-page .ellipse-wrapper {
+    background-image: url(https://c.animaapp.com/BU0gcmOz/img/ellipse-22-1.svg);
+    background-size: 100% 100%;
+    height: 142px;
+    width: 142px;
+    position: relative;
+}
+
+.main-page .group-32 {
+    background-image: url(https://c.animaapp.com/BU0gcmOz/img/ellipse-22.svg);
+}
+
+.main-page .wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.main-page .ellipse-5 {
+    background-color: #ffdea0;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .ellipse-6 {
+    background-color: #fcaf3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .text-wrapper-49 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-50 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .overlap-7 {
+    background-color: #363636;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-page .text-wrapper-51 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .group-33 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: center;
+    margin: 4% 0;
+}
+
+.main-page .frame-5 {
+    margin-bottom: 50px;
+}
+
+.main-page .overlap-group-3 {
+    position: relative;
+}
+
+.main-page .rectangle-13 {
+    height: 300px;
+    object-fit: cover;
+    border-radius: 30px;
+    width: 450px;
+}
+
+.main-page .rectangle-14 {
+    background-color: #363636;
+    border: 1px solid #fcae3b;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 10px #36312f4c;
+    height: 100px;
+    width: 450px;
+    position: absolute;
+    bottom: -50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-page .text-wrapper-52 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .frame-6 {
+    align-items: center;
+    background-color: #fcae3b;
+    border-radius: 20px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 15px 25px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+
+.main-page .text-wrapper-53 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.main-page .frame-7 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.main-page .text-wrapper-54 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 354px;
+}
+
+.main-page .frame-8 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.main-page .frame-9 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.main-page .text-wrapper-55 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 388px;
+}
+
+.main-page .frame-12 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.main-page .text-wrapper-56 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 403px;
+}
+
+.main-page .frame-13 {
+    border-radius: 30px;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+.main-page .text-wrapper-57 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 386px;
+}
+
+.main-page .ic-round-navigate {
+    height: 85px;
+    width: 85px;
+}
+
+.main-page .overlap-8 {
+    background-color: #363636;
+    border-radius: 0 80px 80px 0;
+    box-shadow: 0 0 20px #36312f4c;
+    padding: 2% 0;
+    width: 942px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    flex-direction: column;
+}
+
+.main-page .split {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-page .text-wrapper-58 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .group-34 {
+    height: 70px;
+    width: 647px;
+}
+
+.main-page .ellipse-7 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .text-wrapper-59 {
+    color: #cbcbcb;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 583px;
+}
+
+.main-page .group-35 {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding-left: 10%;
+}
+
+.main-page .line-split {
+    display: flex;
+    width: 100%;
+    gap: 50px;
+    align-items: center;
+}
+
+.main-page .line-6 {
+    height: 5px;
+    border-radius: 0 50px 50px 0;
+    width: 30%;
+    background: #fcae3b;
+}
+
+.main-page .center-courses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.main-page .text-wrapper-60 {
+    color: #ffdea0;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-61 {
+    color: #ffdea0;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 80px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-62 {
+    color: #ffffff;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 200px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .group-wrapper {
+    width: 900px;
+    background-color: #363636;
+    border-radius: 80px 0 0 80px;
+    box-shadow: 0 0 20px #36312f4c;
+    padding: 3% 0;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    flex-direction: column;
+}
+
+.main-page .ellipse-8 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .group-38 {
+    height: 70px;
+    width: 645px;
+}
+
+.main-page .group-39 {
+    height: 70px;
+    width: 645px;
+}
+
+.main-page .last {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 4%;
+    margin-bottom: 100px;
+}
+
+.main-page .last-left {
+}
+
+.main-page .last-right {
+}
+
+.main-page .text-wrapper-64 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-bottom: 60px;
+}
+
+.main-page .text-wrapper-65 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .community {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.main-page .text-wrapper-66 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-67 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-68 {
+    color: #e8e8e8;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-top: 20px;
+}
+
+.main-page .text-wrapper-69 {
+    color: #e7e6e6;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .group-40 {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.main-page .text-wrapper-70 {
+    color: #eeeeee;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-71 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-72 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-73 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .group-41 {
+    height: 40px;
+    width: 40px;
+}
+
+.main-page .group-42 {
+    height: 40px;
+    width: 40px;
+}
+
+.main-page .group-43 {
+    height: 40px;
+    width: 40px;
+}
+
+.main-page .group-wrap {
+    display: flex;
+    gap: 30px;
+}
+
+.main-page .group-44 {
+    height: 40px;
+    width: 40px;
+}
+
+.main-page .group-45 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.main-page .text-wrapper-74 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-bottom: 30px;
+}
+
+.main-page .text-wrapper-75 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .overlap-9 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 80px;
+    width: 702px;
+}
+
+.main-page .text-wrapper-76 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: none;
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    outline: none;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.main-page .overlap-10 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 80px;
+    width: 702px;
+    display: flex;
+    align-items: center;
+}
+
+.main-page .group-46 {
+    width: 100%;
+    padding: 2% 6%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-page .course-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.main-page .group-47 {
+    height: 767px;
+    width: 452px;
+}
+
+.main-page .overlap-12,
+.main-page .overlap-11 {
+    height: 767px;
+    width: 450px;
+    background-color: #363636;
+    border-radius: 30px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+
+.main-page .rectangle-15 {
+    box-shadow: 0 0 20px #36312f4c;
+    height: 767px;
+    width: 450px;
+}
+
+.main-page .group-48 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.main-page .text-wrapper-77 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main-page .ic-round-navigate-2 {
+    height: 24px;
+    width: 24px;
+}
+
+.main-page .group-49 {
+    height: 100px;
+    width: 452px;
+}
+
+.main-page .overlap-group-4 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 100px;
+    width: 102%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px 3px #36312f4c;
+}
+
+.main-page .text-wrapper-78 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 306px;
+}
+
+.main-page .group-50 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-direction: column;
+    width: 100%;
+}
+
+.main-page .text-wrapper-79 {
+    color: #d7d5d5;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 270px;
+}
+
+.main-page .ellipse-9 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .group-52 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.main-page .group-53 {
+    height: 30px;
+    width: 313px;
+}
+
+.main-page .group-54 {
+    height: 30px;
+    width: 313px;
+}
+
+.main-page .text-wrapper-80 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 410px;
+}
+
+.main-page .line-7 {
+    height: 5px;
+    width: 266px;
+    background: #fcae3b;
+    border-radius: 10px;
+}
+
+.main-page .group-55 {
+    height: 80px;
+    width: 126px;
+}
+
+.main-page .text-wrapper-81 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .text-wrapper-82 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-56 {
+    height: 839px;
+    width: 504px;
+}
+
+.main-page .overlap-12 {
+    height: 839px;
+    width: 500px;
+}
+
+.main-page .group-57 {
+    height: 290px;
+    width: 420px;
+}
+
+.main-page .text-wrapper-83 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 365px;
+}
+
+.main-page .ellipse-10 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .text-wrapper-84 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.main-page .ellipse-11 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .text-wrapper-85 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.main-page .text-wrapper-86 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.main-page .ellipse-12 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .text-wrapper-87 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 357px;
+}
+
+.main-page .ellipse-13 {
+    background-color: #fcae3b;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.main-page .text-wrapper-88 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 460px;
+}
+
+.main-page .line-8 {
+    height: 1px;
+    width: 300px;
+}
+
+.main-page .overlap-group-5 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 100px;
+    width: 500px;
+}
+
+.main-page .text-wrapper-89 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-58 {
+    height: 80px;
+    width: 126px;
+}
+
+.main-page .text-wrapper-90 {
+    color: #fcae3b;
+    font-family: "Rubik", Helvetica, serif;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page .group-59 {
+    height: 30px;
+    width: 124px;
+}
+
+.main-page .group-60 {
+}
+
+.main-page .component {
+    align-items: center;
+    background-color: #fcaf3b;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 25px 60px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.main-page .component .text-wrapper {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.main-page .component:hover {
+    box-shadow: 0 0 20px #fcaf3b;
+}
+
+.main-page .frame {
+    align-items: center;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 18px 30px;
+}
+
+.main-page .frame .text-wrapper-2 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.main-page .frame:hover .text-wrapper-2 {
+    text-shadow: 0 0 20px #fcaf3b;
+}
+
+.main-page .property-default {
+    align-items: center;
+    border: 1px solid #fcae3b;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 25px 40px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.main-page .property-default .div {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    white-space: nowrap;
+    width: fit-content;
+    transition: all .3s ease-in-out;
+}
+
+.main-page .property-default:hover {
+    box-shadow: 0 0 20px #fcaf3b;
+}
+
+.main-page .property-default:hover .div {
+    text-shadow: 0 0 20px #fcaf3b;
+}

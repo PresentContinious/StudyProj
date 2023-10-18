@@ -1,0 +1,428 @@
+.paymentPage {
+    background-color: #fcae3b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.paymentPage .paymentPageV {
+    background-color: #fcae3b;
+    width: 100%;
+    padding: 60px 130px 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.paymentPage .group7 {
+    height: 71px;
+    width: 544px;
+}
+
+.paymentPage .textWrapper13 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    gap: 85px;
+}
+
+.card {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+    transition: all .2s ease-in-out;
+}
+
+.card.hidden {
+    opacity: .5;
+    pointer-events: none;
+}
+
+.paymentPage .overlapGroup {
+    background-color: #363636;
+    border-radius: 30px;
+    width: 784px;
+    padding: 60px;
+}
+
+.paymentPage .textWrapper14 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+
+.paymentPage .group8 {
+    height: 104px;
+    width: 214px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.paymentPage .element {
+    color: transparent;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.paymentPage .span {
+    color: #ffffff;
+}
+
+.paymentPage .textWrapper15 {
+    color: #ffffff4c;
+}
+
+.paymentPage .textWrapper16 {
+    color: #fcae3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.paymentPage .textWrapper17 {
+    color: #e1e1e1;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    text-align: center;
+    margin: 35px 0;
+}
+
+.paymentPage .frame4 {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 50px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 30px 60px;
+    margin-top: 40px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.frame4:hover {
+    box-shadow: 0 0 10px #ffffff;
+}
+
+.paymentPage .img3 {
+    height: 35px;
+    width: 35px;
+}
+
+.paymentPage .textWrapper18 {
+    color: #363636;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -5px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.paymentPage .frame5 {
+    align-items: center;
+    border-radius: 50px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 30px 0;
+    border: 2px solid #fcaf3b;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.frame5:hover {
+    background-color: #fcaf3b;
+}
+
+.frame5.active {
+    background-color: #fcaf3b;
+    box-shadow: 0 0 10px #fcaf3b;
+}
+
+.paymentPage .textWrapper19 {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.icon {
+    height: 35px;
+    width: 35px;
+    color: #fcaf3b;
+}
+
+.frame5:hover .textWrapper19,
+.frame5:hover .icon,
+.frame5.active .icon,
+.frame5.active .textWrapper19 {
+    color: #363636;
+}
+
+.paymentPage .textWrapper20 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 36px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.paymentPage .vector2 {
+    height: 2px;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.paymentPage .group9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.paymentPage .textWrapper21 {
+    color: #ffdea0;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.paymentPage .iconParkSolid {
+    height: 50px;
+    width: 50px;
+}
+
+.paymentPage .vector3 {
+    height: 781px;
+    width: 2px;
+}
+
+.paymentPage .group10 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+}
+
+.paymentPage .divWrapper {
+    align-items: flex-start;
+    background-color: #ffdea0;
+    border-radius: 30px;
+    justify-content: center;
+    padding: 25px 40px;
+    width: 100%;
+}
+
+.paymentPage .textWrapper22 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    width: 100%;
+
+    /*reset input styles*/
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.paymentPage .textWrapper23 {
+    color: #ffdea0;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    padding-left: 50px;
+}
+
+.paymentPage .group11 {
+    background-color: #363636;
+    border-radius: 30px;
+    height: 380px;
+    width: 620px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.union {
+    display: flex;
+    gap: 45px;
+    margin-top: 45px;
+}
+
+.paymentPage .group12 {
+    height: 59px;
+    width: 77px;
+    align-self: flex-end;
+    margin-bottom: 75px;
+}
+
+.paymentPage .group13 {
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.paymentPage .group14 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.paymentPage .textWrapper24 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.paymentPage .vector4 {
+    height: 10px;
+    width: 19px;
+}
+
+.paymentPage .group15 {
+    height: 2px;
+    width: 442px;
+}
+
+.paymentPage .group16 {
+    height: 57px;
+    width: 105px;
+}
+
+.paymentPage .group17 {
+    height: 23px;
+    width: 105px;
+}
+
+.paymentPage .group18 {
+    height: 57px;
+    width: 88px;
+}
+
+.paymentPage .group19 {
+    height: 2px;
+    width: 72px;
+}
+
+.component {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 50px;
+    display: inline-flex;
+    justify-content: center;
+    padding: 30px 60px;
+    position: relative;
+    margin-top: 25px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.component .textWrapper10 {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -5px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.component:hover {
+    box-shadow: 0 0 20px #ffffff;
+}
+
+.wrap {
+
+}
+
+.otp {
+    display: flex;
+    gap: 5px;
+}
+
+.formControl {
+    color: rgba(255, 255, 255, 0.30);
+    text-align: center;
+    font-family: 'Jura', Helvetica, serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    outline: 0;
+    width: 20px;
+    position: relative;
+}
+
+.pseudo {
+    height: 2px;
+    width: 20px;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.30);
+}
+
+.formControl:not(:placeholder-shown) ~ .pseudo {
+    display: none;
+}
+
+.gap {
+    margin-right: 15px;
+}

@@ -1,0 +1,252 @@
+.group {
+    min-height: 685px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.group .p {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.markWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mark {
+    color: #c5c5c5;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.group .questions {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.group .div2 {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.group .div5 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.group .pagination {
+    display: flex;
+}
+
+.group .overlap {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    height: 100%;
+}
+
+.group .rectangle2 {
+    background: url(https://c.animaapp.com/7f0nB7XE/img/rectangle-197.png) no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    padding: 0 30px;
+}
+
+.group .div6 {
+    height: 24px;
+}
+
+.group .element1,
+.group .element2 {
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.group .element5 {
+    height: 24px;
+    width: 12px;
+}
+
+.group .textWrapper3 {
+    color: #ffffff;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.group .element6 {
+}
+
+.element2,
+.element1 {
+    color: #fcaf3b;
+    cursor: pointer;
+}
+
+.element2 {
+    color: #fff;
+}
+
+.component {
+    background-color: #fcae3b;
+    height: 45px;
+    width: 42px;
+}
+
+.component .icRoundNavigate {
+    width: 24px;
+}
+
+.component .group459 {
+    height: 23px;
+}
+
+.component .group460 {
+    height: 28px;
+}
+
+.answers {
+    padding: 30px 40px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.divWrapper {
+    display: inline-flex;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.divWrapper .textWrapper {
+    font-family: "Jura", Helvetica, serif;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: fit-content;
+}
+
+.divWrapper .ellipse {
+    background-color: #ffffff;
+    border-radius: 11px;
+    height: 21px;
+    width: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divWrapper .div {
+    background-color: #fcaf3b;
+    border-radius: 7px;
+    height: 13px;
+    width: 13px;
+    position: absolute;
+}
+
+.divWrapper .group452 {
+    color: #ffffff;
+}
+
+.divWrapper .group453 {
+    color: #fcaf3b;
+}
+
+.propertyFrameWrapper {
+    align-items: center;
+    border: 2px solid #fcaf3b;
+    border-radius: 30px;
+    display: inline-flex;
+    gap: 10px;
+    height: 47px;
+    justify-content: center;
+    padding: 10px 30px;
+    position: relative;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.disabled {
+    opacity: .5;
+    pointer-events: none;
+}
+
+.propertyFrameWrapper .textWrapper2 {
+    color: #fcaf3b;
+    font-family: "Jura", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.propertyFrameWrapper:hover {
+    background-color: #fcaf3b;
+}
+
+.propertyFrameWrapper:hover .textWrapper2 {
+    color: #363636;
+}
+
+.overlapGroup {
+    border-radius: 30px 0 0 30px;
+    height: 45px;
+}
+
+.rectangle1,
+.rectangle {
+    background-color: #fcae3b;
+    border-radius: 0 30px 30px 0;
+    height: 45px;
+    width: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.rectangle1 {
+    border-radius: 30px 0 0 30px;
+    transform: rotate(0);
+}
+
+.img {
+    width: 24px;
+}
+
+.title {
+    display: flex;
+    gap: 15px;
+}
